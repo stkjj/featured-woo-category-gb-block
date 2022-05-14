@@ -22,9 +22,9 @@
 	registerBlockType(
 		'mdlr/block-inspector-controls-example', // Block name. Must be string that contains a namespace prefix. Example: my-plugin/my-custom-block.
 		{
-			title: __( 'Inspector Control Example' ), // Block title. __() function allows for internationalization.
-			description: __( 'Block description can be added here...' ), // Block description.
-			icon: 'admin-settings', // Block icon from Dashicons. https://developer.wordpress.org/resource/dashicons/.
+			title: __( 'Featured WooCategory' ), // Block title. __() function allows for internationalization.
+			description: __( 'A very specific way to present a given WooCommerce category on your page' ), // Block description.
+			icon: 'layout', // Block icon from Dashicons. https://developer.wordpress.org/resource/dashicons/.
 			category: 'common', // Block category. Group blocks together based on common traits E.g. common, formatting, layout widgets, embed.
 			attributes: {
 				content: {
