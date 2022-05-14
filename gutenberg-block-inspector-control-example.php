@@ -1,13 +1,15 @@
 <?php
 /**
  * Plugin Name: Gutenberg Block: Inspector Control - Example
- * Plugin URI: https://github.com/modularwp/gutenberg-block-inspector-control-example
+ * Plugin URI: https://github.com/stkjj/featured-woo-category-gb-block/
  * Description: This is an example of a Gutenberg block with an inspector control.
  * Author: ModularWP
  * Author URI: https://modularwp.com/
  * Version: 1.0.0
  * License: GPL2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * GitHub Plugin URI: https://github.com/stkjj/featured-woo-category-gb-block/
+ * Primary Branch: main
  */
 
 // Exit if accessed directly.
